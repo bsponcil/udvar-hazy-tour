@@ -1,10 +1,10 @@
 # Udvar-Hazy Audio Tour — Support
 
-Udvar-Hazy Audio Tour is a free, self-guided audio tour of the Smithsonian's Steven F. Udvar-Hazy Center in Chantilly, Virginia. Narrated by docent Brian Douglas, it tells the stories behind 36 of the museum's most significant aircraft and spacecraft, from the Space Shuttle Discovery and the SR-71 Blackbird to the Enola Gay and the Concorde.
+Udvar-Hazy Audio Tour is a free, self-guided audio tour of the Smithsonian's Steven F. Udvar-Hazy Center in Chantilly, Virginia. Narrated by docent Brian Douglas, it tells the stories behind many of the museum's most significant aircraft and spacecraft, from the Space Shuttle Discovery and the SR-71 Blackbird to the Enola Gay and the Concorde.
 
 ## Features
 
-- Audio narration for 36 exhibits, with photos and background reading for each
+- Audio narration for dozens of exhibits, with more added over time, plus photos and background reading for each
 - Works completely offline — no Wi-Fi or cell signal needed in the museum
 - Keeps playing with the screen locked, with controls on the Lock Screen
 - Free, with no ads, accounts, or in-app purchases
